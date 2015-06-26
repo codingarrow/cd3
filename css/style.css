@@ -1,0 +1,44 @@
+
+/* ------------------------------------Html-Body------------------------------- */
+html, body {width:100%; padding:0; margin:0;}
+body .wrap-body{}
+
+/* -------------------------------------Header--------------------------------- */
+
+
+header .top-header{text-align: left;background: #000000;width: 100%;}
+#top_logo{position: relative;  right: -150px; float:center;}
+#top_button{position: relative;  right: -150px; float:center; top:-125px;}
+
+
+
+/* -------------------------------------Container------------------------------ */
+#container {text-align: left;background: #303030;width: 100%;}
+
+h1.container_header1{position: relative; left: -240px;}
+h3.container_text{position: relative; left: -300px;}
+#container3{background: #eeeeee;width: 100%; height:70%;}
+#container_box_right{position: relative;  right: -170px; float:center; top:-150px;}
+
+#container_header_text2{background: #000000;margin: 4px 300px 0px 300px;}
+#container2_box_left{position: relative;  right: -270px; float:center; top:-150px;}
+
+/* -------------------------------------Panel1------------------------------ */
+h1.panel1{position: relative; left: -340px;}
+h1.panel_text1{position: relative; left: -100px; top:-49px;}
+h2.panel_para1{position: relative; left: -165px; top:-49px;}
+
+/* -------------------------------------Footer--------------------------------- */
+
+footer {margin-top:30px; padding-top: 30px;}
+footer .wrap-footer{text-align: center;}
+
+footer h1{font-size: 55px;color: #fff;}
+footer p{margin: 10px;color: #000000;}
+footer .menu-bottom{ margin: auto; text-align: center; display: inline-block;}
+footer .menu-bottom a{text-transform: uppercase; font-weight: bold;}
+footer .menu-bottom ul{list-style: none;}
+footer .menu-bottom ul li{float: left; padding: 5px 15px;}
+
+.copyright{text-align:center; margin-top:50px; background:#000000; padding:15px 0px;}
+.copyright p {color: #fff;}

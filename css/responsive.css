@@ -1,0 +1,21 @@
+ 
+
+html { -webkit-text-size-adjust: none;}
+img{max-width:100%;	height: auto;width: auto\9; /* ie8 */}
+
+
+
+
+@media only screen and (max-width: 767px) {
+
+    .toggleMenu.active {display: block;}
+   .top-header{padding: 0 10px;}
+	header {margin-top: 0px;height:400px;}
+	header #logo{margin-left: 10px;}
+   .container {display: inline-block; outline: 0; max-width: 100%; height: auto; width:auto;}
+   #top_button{display: inline-block; outline: 0; max-width: 100%; height: auto;}
+   .container2 {display: inline-block;}
+   .container3 {display: inline-block;}
+
+	
+}
